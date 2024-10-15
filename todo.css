@@ -1,0 +1,42 @@
+.b-ima {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.k {
+    text-align: center;
+}
+
+.a {
+    text-align: center;
+    color: white;
+}
+
+.b {
+    text-align: center;
+    color: white;
+}
+
+.c {
+    color: white;
+    text-align: left;
+    font-weight: bold;
+}
+
+.d {
+    color: white;
+    text-align: left;
+}
+
+.e {
+    background-color: #ffa500;
+    color: white;
+    margin: auto;
+}
+
+.f {
+    text-decoration: underline;
+    color: white;
+    text-align: center;
+}
